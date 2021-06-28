@@ -1,8 +1,8 @@
 package com.nt.checkingstash;
 
 public class StashChecking  {
-
-
+	
+	//HIS-122
 	public void checking (){
 		System.out.println("Checking");
 	}
